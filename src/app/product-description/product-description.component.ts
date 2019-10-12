@@ -1,4 +1,4 @@
-import { Album } from './../album';
+import { Album } from '../album';
 import { ProductService } from '../product.service';
 import { Component, OnInit } from '@angular/core';
 
